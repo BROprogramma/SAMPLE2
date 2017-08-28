@@ -2,18 +2,21 @@ var respecConfig = {
   specStatus: "GN-WV",
   specType: "IM",
   publishDate: "2017-07-28",
-  editors: [{
-    name: "First Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
-  },{
-    name: "Second Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
-  }],
-  shortName: "bro-SAMPLE",
+  editors: [
+    {
+      name: "First Lastname",
+      company: "Company",
+      companyURL: "CompanyURL",
+    },
+    {
+      name: "Second Lastname",
+      company: "Company",
+      companyURL: "CompanyURL",
+    },
+  ],
+  shortName: "bro-sample2",
   pubDomain: "bro",
-  github: "https://github.com/BROprogramma/SAMPLE",
+  github: "https://github.com/BROprogramma/sample2",
   //previousPublishDate: "2017-01-01",
   //previousStatus: "GN-CV",
   //localBiblio: {

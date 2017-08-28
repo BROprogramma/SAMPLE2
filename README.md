@@ -1,6 +1,5 @@
-Voorbeeld repo 2
+Sample2 repo
 
-Bekijk het voorbeeld Respec document met gegenereerde catalogus en generieke delen op: 
-https://broprogramma.github.io/SAMPLE/ 
+Voor het testen van het linken van 2 catalogi.
 
-NB de HTML fragmenten voor generieke delen van de gegevenscatalogi staan in deze repository als voorbeeld, maar worden hier niet onderhouden. Dat gebeurt in https://github.com/BROprogramma/generiek.
+https://geonovum.github.io/sample2
